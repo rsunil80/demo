@@ -1,1 +1,1 @@
-# demo
+Welcome to demo project of learning git
